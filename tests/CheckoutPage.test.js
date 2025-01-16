@@ -113,7 +113,7 @@ describe('Checkout Page Tests', () => {
 
     describe('Update Featured Product Quantity During  (HP LP3065) Checkout Test', () => {
 
-        //Test 007ag -> valid featured product (HP LP3065) check out test (as a guest)
+        //Test 007ag -> update featured product quantity (HP LP3065) during check out test (as a guest)
         test("Valid Featured Product (Update Quantity) (HP LP3065) Checkout Test - As A Guest", async function () {
             //add single featured product (HP LP3065) to cart test (as a guest)
             await testMethods.addSingleHP25HeadphonesSetToCartTest();
