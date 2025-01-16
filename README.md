@@ -215,7 +215,7 @@ Simple Selenium test suite on basic web shop functionality ( positive / negative
 
 //Update Featured Product Quantity During  (HP LP3065) Checkout Test
 
-1.	//Test 007ag -> valid featured product (HP LP3065) check out test (as a guest)
+1.	//Test 007ag -> update featured product quantity (HP LP3065) during check out test
 
 //Remove Featured Product (HP LP3065) From Checkout Test
 
