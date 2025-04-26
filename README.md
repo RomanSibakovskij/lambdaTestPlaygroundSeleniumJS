@@ -3,13 +3,12 @@
 Simple Selenium test suite on basic web shop functionality ( positive / negative test scenarios on: user account creation / login / logout, various product addition to / quantity update / removal from shopping cart, checkout, checkout confirmation) The test suite captures screenshots at the end of test case run (for logging purposes) -> create 'screenshots repository in 'tests' repository.
 
 #Tech Requirements:
- 1.Java JDK 8 or higher 
  
- 2.Node.js
+ 1.Node.js
 
- 3.Jest
+ 2.Jest
  
- 4.IntelliJ IDEA (or another IDE that supports Java and Maven)
+ 3.IntelliJ IDEA (or another IDE)
 
 #Setup
 
